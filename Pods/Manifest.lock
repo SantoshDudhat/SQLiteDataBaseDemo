@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.10.1)
+  - SDWebImage (5.20.0):
+    - SDWebImage/Core (= 5.20.0)
+  - SDWebImage/Core (5.20.0)
+  - SQLite.swift (0.15.3):
+    - SQLite.swift/standard (= 0.15.3)
+  - SQLite.swift/standard (0.15.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - SDWebImage
+  - SQLite.swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - SQLite.swift
+
+SPEC CHECKSUMS:
+  Alamofire: 840d2a1ad82355b536ec6ba5f97e5bfa54600ca3
+  SDWebImage: 73c6079366fea25fa4bb9640d5fb58f0893facd8
+  SQLite.swift: 8d054987f02728cc912b0eb5a9659650573a65a2
+
+PODFILE CHECKSUM: 26727fb9b080689105f5c09a0557f5d8d73f56ac
+
+COCOAPODS: 1.16.2
